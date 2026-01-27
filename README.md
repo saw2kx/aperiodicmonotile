@@ -1,6 +1,12 @@
 # aperiodicmonotile
 A 3D-printable tiling of aperiodic monotiles
 
+## Further reading
+
+The original paper is availble here: https://escholarship.org/uc/item/3317z9z9
+
+The University of Waterloo has an interesting page with information, images, links to simulators and such: https://cs.uwaterloo.ca/~csk/hat/index.html
+
 ## Attribution
 
 This project is inspired by and based on the work:
