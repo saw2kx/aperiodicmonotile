@@ -1,5 +1,4 @@
-# aperiodicmonotile
-A 3D-printable tiling of aperiodic monotiles
+# A 3D-printable tiling of aperiodic monotiles
 
 ## Further reading
 
