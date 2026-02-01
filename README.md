@@ -1,5 +1,9 @@
 # A 3D-printable tiling of aperiodic monotiles
 
+## Documentation
+
+All information about this repository is available on its GitHub Pages site: https://aperiodicmonotile.oddname.space/
+
 ## Further reading
 
 The original paper is availble here: https://escholarship.org/uc/item/3317z9z9
