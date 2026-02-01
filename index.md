@@ -69,5 +69,4 @@ There are four files:
 <p>This project is inspired by and based on the work:</p>
 <p><strong>"An Aperiodic Monotile"</strong> by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss, published in 2023.</p>
 The original paper is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.  Proper attribution is provided here in accordance with the licence.</p>
-<br>
 <p>This repository, including any original designs or contributions made by the author of this project, is licensed under <a href="https://github.com/saw2kx/aperiodicmonotile/blob/main/LICENSE">CC BY-NC-SA 4.0</a>.</p>
