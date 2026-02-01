@@ -42,18 +42,17 @@ There are four files:
 </ul>
 
 <p>There are four sets of the above 3MF files.  The universal files work eveywhere, but there are also files for Orca Slicer, PrusaSlicer and Cura where I have labelled and grouped the objects for you.</p>
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/3MF/AP_universal.zip">Universal</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/3MF/AP_PrusaSlicer.zip">PrusaSlicer</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/3MF/AP_OrcaSlicer.zip">Orca Slicer</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/3MF/AP_Cura.zip">Cura</a>
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/3MF/AP_universal.zip">Universal</a> | 
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/3MF/AP_PrusaSlicer.zip">PrusaSlicer</a> | 
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/3MF/AP_OrcaSlicer.zip">Orca Slicer</a> | 
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/3MF/AP_Cura.zip">Cura</a>
 
 <h3>Easy option</h3>
-<p>Use these STL files which exclude the modifiers.  Print the open frame and the inner hat tile or the partitioned frame and eight kite tiles.
-<br>This is also a good fallback option if you can’t use 3MF files or have issues with those provided here.</p>
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Open%20frame.stl">Open frame</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Inner%20hat%20tile.stl">Inner hat tile</a><br>
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Partitioned%20frame.stl">Partitioned frame</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Kite%20tile.stl">Kite tile</a>
+<p>Use these STL files which exclude the modifiers.  Print the open frame and the inner hat tile or the partitioned frame and eight kite tiles.  This is also a good fallback option if you can’t use 3MF files or have issues with those provided here.</p>
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/STL/Open%20frame.stl">Open frame</a> | 
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/STL/Inner%20hat%20tile.stl">Inner hat tile</a><br>
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/STL/Partitioned%20frame.stl">Partitioned frame</a> | 
+<a href = "https://raw.githubusercontent.com/saw2kx/aperiodicmonotile/main/STL/Kite%20tile.stl">Kite tile</a>
 
 <h3>Hard option</h3>
 <p>Hit the repo link at the top, grab the STEP files and do some cool custom stuff, just be a good tile neighbour. ;)</p>
