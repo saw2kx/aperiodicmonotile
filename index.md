@@ -1,15 +1,15 @@
 ---
-title: A 3D-printable tiling of aperiodic monotiles
+title: A 3D-Printable Tiling of Aperiodic Monotiles
 ---
-<h1>Let’s make a group tessellation.</h1>
+<h1>Let’s make a group tessellation</h1>
 
-<p>Everything you need is here and there are options from accessible easy prints to STEP files for more advanced customisation.</p>
+<p>Everything you need is here and there are options from quick easy prints to STEP files for more advanced customisation.</p>
 
-<h2>What is aperiodic monotile?</h2>
+<h2>What is an aperiodic monotile?</h2>
 
 <p>A monotile is a single tile shape that tiles the plane by repeated copies of itself, and an aperiodic tiling is one that has no translational symmetry.</p>
 
-<p>This project uses the hat tile, discovered in 2023 by amateur mathematician David Smith and published into a proof with his collaborators.  Find more information in <i>further reading</i> below.</p>
+<p>This project uses the hat tile, discovered in 2023 by amateur mathematician David Smith and published with a proof by him and his collaborators.  Find more information in <i>further reading</i> below.</p>
 
 <p>Here is a tiling using hat tiles:</p>
 <img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/hats.png?raw=true" alt="An aperiodic monotile tiling">
@@ -59,10 +59,10 @@ There are four files:
 <p>Hit the repo link at the top, grab the STEP files and do some cool custom stuff, just be a good tile neighbour. ;)</p>
 
 <h3>Did you notice that tiling has two types of tile?</h3>
-<p>It still counts as one mathmatically, but the darker blue tiles in the first image are reflected.  The radio of normal to reflected tiles is φ<sup>4</sup> : 1 (≈ 6.854 : 1).  We have already made a good number of reflected tiles, so participants only need to print them as presented in the files.  If you get carried away and make a lot though, you could reflect (mirror) every seventh one and that’ll have us about right.  It doesn’t need to be exact because there is enough varience available to us in our non-infinite tiling.</p>
+<p>It still counts as one mathematically, but the darker blue tiles in the first image are reflected.  The ratio of normal to reflected tiles is φ<sup>4</sup> : 1 (≈ 6.854 : 1).  We have already made a good number of reflected tiles, so participants only need to print them as presented in the files.  If you get carried away and make a lot though, you could reflect (mirror) every seventh one and that’ll have us about right.  It doesn’t need to be exact because there is enough variance available to us in our non-infinite tiling.</p>
 
 <h3>Measurements</h3>
-<p>In testing on different printers with PLA and PETG, our caliper measurements were within 0.1mm of the dimensions indicated below.  Obviosuly this is somewhat unimportant for an aestetic group project of this nature, but I provide it for calibration for the particular amongst us, or for peace of mind when using materials prone to difficulties with dimensional accuracy.</p><br>
+<p>In testing on different printers with PLA and PETG, our caliper measurements were within 0.1mm of the dimensions indicated below.  Obviously this is somewhat unimportant for an aesthetic group project of this nature, but I provide it for calibration for the particular amongst us, or for peace of mind when using materials prone to difficulties with dimensional accuracy.</p><br>
 <img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/measurements.png?raw=true" alt="Frame measurements" width=500>
 <br><br><br>
 <h4>Attribution</h4>
