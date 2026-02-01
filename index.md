@@ -51,7 +51,7 @@ There are four files:
 <p>Use these STL files which exclude the modifiers.  Print the open frame and the inner hat tile or the partitioned frame and eight kite tiles.
 <br>This is also a good fallback option if you can’t use 3MF files or have issues with those provided here.</p>
 <a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Open%20frame.stl">Open frame</a> | 
-<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Inner%20hat%20tile.stl">Inner hat tile</a><br><br>
+<a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Inner%20hat%20tile.stl">Inner hat tile</a><br>
 <a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Partitioned%20frame.stl">Partitioned frame</a> | 
 <a href = "https://github.com/saw2kx/aperiodicmonotile/blob/main/STL/Kite%20tile.stl">Kite tile</a>
 
@@ -65,11 +65,10 @@ There are four files:
 <p>In testing on different printers with PLA and PETG, our caliper measurements were within 0.1mm of the dimensions indicated below.  Obviously this is somewhat unimportant for an aesthetic group project of this nature, but I provide it for calibration for the particular amongst us, or for peace of mind when using materials prone to difficulties with dimensional accuracy.</p><br>
 <img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/measurements.png?raw=true" alt="Frame measurements" width=500>
 <br><br><br>
+
 <h4>Attribution</h4>
-
-This project is inspired by and based on the work:
-
-<strong>"An Aperiodic Monotile"</strong> by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss, published in 2023.  
-The original paper is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.  Proper attribution is provided here in accordance with the licence.  
+<p>This project is inspired by and based on the work:</p>
+<p><strong>"An Aperiodic Monotile"</strong> by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss, published in 2023.</p>
+The original paper is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.  Proper attribution is provided here in accordance with the licence.</p>
 <br>
-This repository, including any original designs or contributions made by the author of this project, is licensed under <a href="https://github.com/saw2kx/aperiodicmonotile/blob/main/LICENSE">CC BY-NC-SA 4.0</a>.
+<p>This repository, including any original designs or contributions made by the author of this project, is licensed under <a href="https://github.com/saw2kx/aperiodicmonotile/blob/main/LICENSE">CC BY-NC-SA 4.0</a>.</p>
