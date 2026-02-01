@@ -3,14 +3,36 @@ title: A 3D-printable tiling of aperiodic monotiles
 ---
 <body>
 
-<h1>Purpose</h1>
-Coming soon.
+<h1>Let’s make a group tessellation.</h1>
+<p>Everything you need is here and there are options from accessible easy prints to models for more advanced customisation.</p>
 
-<h2>Further reading</h2>
+<h2>What is aperiodic monotile?</h2>
+<p>A monotile is a single tile shape that tiles the plane by repeated copies of itself, and an aperiodic tiling is one that has no translational symmetry.</p>
+<p>This project uses the hat tile, discovered in 2023 by amateur mathematician David Smith and published into a proof with his collaborators.  Find more information in <i>further reading</i> below.</p>
 
-The original paper is availble here: https://escholarship.org/uc/item/3317z9z9
+<p>Here is a tiling using hat tiles:</p>
+<img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/hats.png?raw=true" alt="An aperiodic monotile tiling">
+<i>Image from “An Aperiodic Monotile” by David Smith et al. (2023), licensed under CC BY 4.0.</i>
+<h2>How can I participate?</h2>
 
-The University of Waterloo has an interesting page with information, images, links to simulators and such: https://cs.uwaterloo.ca/~csk/hat/index.html
+<p>We have prepared two different tiles: one with an open frame and one with a partitioned frame.  The spaces in the frame can be filled with either smaller tiles or with modifiers (more on that shortly).</p>
+
+<p>Here is the open frame (white) with a inner hat tile (red):</p>
+<img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/openFrame.png?raw=true" alt="The open frame and inner tile">
+<p>Here is the partitioned frame (yellow) with one kite tile (green):</p>
+<img src="https://github.com/saw2kx/aperiodicmonotile/blob/main/images/partitionedFrame.png?raw=true" alt="The partitioned frame and one kite tile">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Attribution</h2>
 
