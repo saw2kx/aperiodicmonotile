@@ -3,3 +3,12 @@ plugins:
 - jekyll-remote-theme
 title: A 3D-printable tiling of aperiodic monotiles
 description: A project of the Rectangle Bounded by Cemeteries at Diagonally Opposite Vertices Nerds Association
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/wider.css"
